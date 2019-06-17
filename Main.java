@@ -1,4 +1,4 @@
-//creating an array data structure that doesnot store duplicates.
+
 
 public class Main {
     public static int numTrucks(List<List<Integer>> inOut, int time){
